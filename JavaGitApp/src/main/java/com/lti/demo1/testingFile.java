@@ -1,4 +1,4 @@
-class new
+class testingFile
 {
 public static void main(String[] args)
 {
