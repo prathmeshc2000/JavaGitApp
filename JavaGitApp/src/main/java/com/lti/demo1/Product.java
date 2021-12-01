@@ -4,6 +4,7 @@ public class Product {
 	private int prdId;
 	private String prdName;
 	
+	 
 	
 	public Product() {
 		super();
