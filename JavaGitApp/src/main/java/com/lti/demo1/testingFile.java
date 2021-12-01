@@ -1,4 +1,5 @@
-class testingFile
+package com.lti.demo1;
+public class testingFile
 {
 public static void main(String[] args)
 {
